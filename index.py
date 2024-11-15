@@ -24,3 +24,6 @@ for index, subjectMark in enumerate(subjectMarks):
         print(f"{index+1}) {subject} - S({mark})")
     else:
         print(f"{index+1}) {subject} - S({mark})")
+
+
+customers = { "name": "Customer name", "age": 20 }
